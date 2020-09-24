@@ -3,13 +3,13 @@
 
 This repo will be used to store all the work you will complete for this class. Here are some intro commands to git you started.
 
-Go to https://github.com/DigitalCraftsStudents/Hephaestus. Click on the green `Code` button and copy the URL as seen here.
+Click on this [Github Link](https://github.com/DigitalCraftsStudents/Hephaestus). Select the green `Code` button and copy the URL as seen here.
 
 ![Github URL](./assets/url.png)
 
 Open VS Code and go to the terminal. Create a directory that will hold all the files that you will be using. This will be your workspace. Make sure this directory is easy to find.
 
-:::Bonus:::
+:bulb: Bonus  
 Try to create the directory and files using the terminal. In linux, use commands `touch`, `rm`, `mkdir`, and `cd` to create and navigate to the workspace.
 
 Once you have created your workspace and have navigated into the  respective directory, run
